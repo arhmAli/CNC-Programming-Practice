@@ -1,3 +1,4 @@
+%using milling operation to perform boring 
 O9014
 G90
 M03
@@ -12,4 +13,4 @@ G00X100Y30Z10
 M05
 M30
 
-%
+%The triangular shape was bored after execution of this program the output is attached in the directory
